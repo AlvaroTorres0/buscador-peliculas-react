@@ -74,7 +74,7 @@ function App() {
   return (
     <div className="principal">
       <header>
-        <h1>Buscador de películas</h1>
+        <h1>Prueba técnica</h1>
         <form className="movie-form" onSubmit={handleSubmit}>
           <input
             type="text"
